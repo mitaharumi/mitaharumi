@@ -8,7 +8,7 @@ i'm <b>RPA</b> developer 🤖
 
 ##### contact me: [linkdin,](https://www.linkedin.com/in/mitaharumidaniela/) [email](mailto:mitaharumi@gmail.com)
 
-![Python](https://img.shields.io/badge/python_lover-7a00cc?style=for-the-badge&logo=python&logoColor=ffff1a)
+![Python](https://img.shields.io/badge/pythonista-332b8b?style=for-the-badge&logo=python&logoColor=ffff1a)
 
 ###### README.md under construction ... 🚧
 <!--
