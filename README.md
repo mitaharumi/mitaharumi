@@ -1,8 +1,18 @@
 > my greetings everyone! <br> i'm mitaharumi and ✨make bots is my passion✨
 
+<br> i'm <b>RPA</b> developer 🤖, focusing on task automation, crawlers and scrapers.
 <br>
-i'm <b>RPA</b> developer 🤖
-<br>
+<br>i work with:
+- puppeteer
+- playwright
+- selenium
+
+my main languages:
+- python
+- javascript
+- nodejs
+
+
 <br>
 <br>
 
