@@ -1,8 +1,7 @@
 Greetings everyone! <br> 
 I'm Mita, a computer scientist, and ✨ make bots is ~was(🥲)~ my passion ✨
 
-I'm a **software engineer** with solid background in automation projects. 🤖 <br>
-Recently, I've been working on AI-driven projects, and now, due to recent opportunities,
+I'm a **software engineer** with solid background in automation projects and recently, I've been working on AI-driven projects 🤖
 
 [linkedin](https://www.linkedin.com/in/mitaharumidaniela/) 
 
